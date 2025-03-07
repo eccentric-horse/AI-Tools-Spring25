@@ -1,0 +1,8 @@
+{
+    "temperature": 0,
+    "messages": [
+        {"role": "user", "content": "Here is some information about sign languages worldwide. We include: American Sign Language (ASL), French Sign Language (LSF), Dutch Sign Language (NGT), and Chinese Sign Language (CSL). Provide 2 entries including role and content based on this data in JSONL format."},
+        {"role": "assistant", "content": "{\"messages\": [{\"role\": \"user\", \"content\": \"When did Dutch Sign Language become an official language?\"}, {\"role\": \"assistant\", \"content\": \"13 October 2020.\"}]}\n{\"messages\": [{\"role\": \"user\", \"content\": \"What sign language is ASL most closely related to?\"}, {\"role\": \"assistant\", \"content\": \"French Sign Language (LSF).\"}]}" },
+        {"role": "user", "content": "Here is some information about the sign languages worldwide: {{info}}. Provide {{n}} entries including role and content based on this data in JSONL format." }
+    ]
+}
