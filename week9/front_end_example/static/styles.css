@@ -1,0 +1,51 @@
+/* Styles for the heading */
+h1 {
+    color: navy;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Styles for the body */
+body {
+    text-align: center;
+}
+
+/* Styles for paragraphs */
+p {
+    color: #333;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+/* Styles for links */
+a {
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styles for images */
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    max-height: 300px; /* Set a maximum height of 300 pixels */
+    height: auto;
+}
+
+/* Styles for unordered lists */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Styles for list items */
+li {
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
