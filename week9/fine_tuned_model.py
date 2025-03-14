@@ -3,7 +3,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-model_name = 'ft:gpt-4o-2024-08-06:personal::B8FSnK8v'
+# Please fill this for Homework #6!!!
+model_name = 'TODO'
 
 template = '''You are a Q&A bot. You provide short answers to questions.
 For example:

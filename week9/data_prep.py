@@ -4,6 +4,7 @@ sys.path.append('../')
 from utilities import ChatTemplate
 import os
 
+# Please change those for Homework #6!!!
 folder_name = '../dailymoth'
 output_file = 'dailymoth_output.jsonl'
 

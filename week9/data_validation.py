@@ -5,6 +5,7 @@ from collections import defaultdict
 
 # https://cookbook.openai.com/examples/chat_finetuning_data_prep
 
+# Please change this for Homework #6!!!
 data_path = 'dailymoth_output.jsonl'
 
 # Load the dataset
