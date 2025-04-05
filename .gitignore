@@ -9,3 +9,7 @@ venv/
 
 # Byte-compiled / optimized / DLL files
 **/__pycache__
+
+dailymoth/
+
+week10/dailymothdb_backup
